@@ -1,3 +1,3 @@
 # example1
-this is my first git repository
-author - Upashana N.Bhojake
+This is my first git repository. 
+Author - Upashana N.Bhojake
